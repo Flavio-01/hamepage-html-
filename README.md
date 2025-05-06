@@ -1,7 +1,12 @@
 # hamepage-html-
 Este projeto ilustra um site estático fundamental, construído unicamente com HTML e CSS. Perfeito para quem inicia a jornada no desenvolvimento web e busca compreender os pilares da criação de páginas.
 
-  #! /bin/bash
+  
+
+
+
+#! /bin/bash
+
 
 if [ ! -x /etc/init.d/apache2 ]; then
 echo "Apache nao encontrado, iniciando a instalação..."
